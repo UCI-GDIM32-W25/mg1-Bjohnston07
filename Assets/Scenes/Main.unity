@@ -579,8 +579,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 78692814429bd4f79a92be7f923fb9e6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _speed: 1
-  _playerTransform: {fileID: 0}
+  _speed: 5
+  _playerTransform: {fileID: 935932060}
   _plantPrefab: {fileID: 4618748197187844698, guid: 69640da9ca1b6744caaa51a22425ca0b, type: 3}
   _numSeeds: 5
   _plantCountUI: {fileID: 1657858111}
@@ -1038,8 +1038,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eebc7c403a9d34bf6ac89b8e35043f21, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _plantedText: {fileID: 0}
-  _remainingText: {fileID: 0}
+  _plantedText: {fileID: 543629224}
+  _remainingText: {fileID: 179384848}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
